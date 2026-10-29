@@ -1,4 +1,4 @@
-# Financial Option Pricing & Monte Carlo Simulation
+# Option Pricing & Monte Carlo Simulation
 
 This repository contains a Jupyter Notebook implementing option pricing models for the Nifty 50 Index (`^NSEI`). It calculates theoretical prices for European Call and Put options using both analytical and numerical simulation methods.
 
